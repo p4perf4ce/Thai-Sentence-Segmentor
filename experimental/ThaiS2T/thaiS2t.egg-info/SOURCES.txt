@@ -1,7 +1,0 @@
-README.md
-setup.py
-thaiS2t.egg-info/PKG-INFO
-thaiS2t.egg-info/SOURCES.txt
-thaiS2t.egg-info/dependency_links.txt
-thaiS2t.egg-info/requires.txt
-thaiS2t.egg-info/top_level.txt
