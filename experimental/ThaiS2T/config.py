@@ -42,7 +42,7 @@ BACKEND_URL = os.environ.get('REDIS_URL', 'redis://')
 
 
 # Transcribe Config
-GOOGLE_OAUTH2_CREDS_PATH = './ThaiS2T/credentials/credkey.json'
+GOOGLE_OAUTH2_CREDS_PATH = './ThaiS2T/credentials/mycredkey.json'
 DEFAULT_META_DIR = '/metadata/'
 DEFAULT_TRANS_DIR = '/text/'
 DEFAULT_TRANS_NAME = 'subtitle.srt'
