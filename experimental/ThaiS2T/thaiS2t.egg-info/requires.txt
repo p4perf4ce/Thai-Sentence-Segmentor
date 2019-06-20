@@ -1,0 +1,14 @@
+virtualenv
+google-cloud
+google-cloud-speech
+ffmpeg-python
+numpy
+matplotlib
+scipy
+sklearn
+hmmlearn
+simplejson
+eyed3
+pydub
+pysrt
+pythainlp
